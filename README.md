@@ -3,11 +3,13 @@
 - Unittest
 - Pytest - https://pypi.org/project/pytest/
 - Coverage - https://pypi.org/project/coverage/
+- pytest-cov - https://pypi.org/project/pytest-cov/
 
 # **DOCUMENTATION - REFERENCES**
 - Unittest - https://docs.python.org/3/library/unittest.html
 - Pytest - https://docs.pytest.org/en/latest/getting-started.html
 - Coverage - https://coverage.readthedocs.io/en/latest
+- pytest-cov - https://pytest-cov.readthedocs.io/en/latest/index.html
 
 # **PROJECT STRUCTURE**
 

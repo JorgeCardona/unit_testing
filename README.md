@@ -514,6 +514,11 @@ repos:
 pre-commit install
 ```
 
+## **LIST THE GIT HOOK SCRIPTS**
+```
+ls .git/hooks
+```
+
 ## **RUN PRECOMMIT**
 ### **ORGANIZE**
 ```

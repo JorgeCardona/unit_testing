@@ -51,3 +51,8 @@ repos:
     rev: 4.3.21  # pick the isort version you'd like to use from https://github.com/timothycrosley/isort/releases
     hooks:
     -   id: isort
+- repo: https://github.com/dhruvmanila/remove-print-statements
+  rev: ''  # Replace with latest tag on GitHub
+  hooks:
+  - id: remove-print-statements
+    args: ['--verbose']   # Show all the print statements to be removed

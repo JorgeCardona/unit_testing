@@ -509,7 +509,7 @@ repos:
         exclude: ^testing/resources/
 ```
 
-## **Install the git hook scripts**
+## **INSTALL THE GIT HOOK SCRIPTS**
 ```
 pre-commit install
 ```
@@ -535,6 +535,10 @@ python -m black .
 git commit . -m 'no validates commit' --no-verify
 ```
 
+## **UNINSTALL THE GIT HOOK SCRIPTS**
+```
+pre-commit uninstall
+```
 
 # **COMMANDS FOR TESTING**
 
